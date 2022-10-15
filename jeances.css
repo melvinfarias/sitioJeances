@@ -1,0 +1,67 @@
+/* font-family: 'Alfa Slab One', cursive; */
+
+footer{
+    background-color: rgb(215, 206, 206);
+}
+
+h1,
+h2{
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 80px;
+}
+
+.hero {
+    background: url(img/industrial2.jpg) no-repeat;
+    background-size: cover;
+    height: 0.5vh;
+    min-height: 500px;   
+    color: 	white;
+    margin-top: 95px;
+ }
+
+ h5{
+    font-size: larger;
+    color: whitesmoke;
+    text-align: center;
+    box-shadow: 30px;
+    text-shadow: 30px;
+    scrollbar-shadow-color: aliceblue;
+ }
+
+ .card-body {
+    margin-top: 30px;
+    background-color: rgb(183, 182, 182);
+    /*background-color: #252628;*/
+    text-decoration-color: white;
+    background: white;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: black;
+    
+ }
+
+ h4 {
+    color: black;
+ }
+
+ p {
+    color: whitesmoke;
+    text-align: justify;
+    margin-top: 30px;
+ }
+
+ .card-title {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+    
+ }
+
+ 
+
+
+
+
+ 
+
+ 

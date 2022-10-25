@@ -28,7 +28,7 @@ h2{
     scrollbar-shadow-color: aliceblue;
  }
 
- .card-body {
+ .card-bodyQuienes {
     margin-top: 30px;
     background-color: rgb(183, 182, 182);
     /*background-color: #252628;*/
@@ -37,6 +37,7 @@ h2{
     margin-left: 0px;
     margin-right: 0px;
     color: black;
+    image-orientation: from-image;
     
  }
 
@@ -50,12 +51,52 @@ h2{
     margin-top: 30px;
  }
 
- .card-title {
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 30px;
-    
+
+ /*ESTILOS DE VALORES*/
+
+ .card-titleValores {
+    color: whitesmoke;
+    /*font-family: 'Alfa Slab One', cursive;*/
+    box-shadow: 20px;
+    margin-top: 20px;
+    margin-left: 130px;
  }
+ 
+ .card-textValores {
+    color: whitesmoke;
+
+ }
+ .card-body {
+    background: #252728;
+ }
+
+.card {
+    border-color: #369A8E;
+} 
+ .card-group{
+    background-color: #7a888f;
+    border-radius: 10px;
+    border-top: 20px;
+    background: #252728;
+    border-color: #369A8E;
+    border-top: 100px;
+ }
+/*FIN DE ESTILOS DE VALORES*/
+
+/*INICIO DE ALIADOS*/
+.titulo-carousel {
+    color: #252728;
+    font-family: 'Alfa Slab One', cursive;
+    box-shadow: 20px;
+    margin-top: 50px;
+    margin-left: 310px;
+}
+
+.carousel-caption {
+      color: black;
+ }
+
+
 
  
 
